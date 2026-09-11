@@ -1,0 +1,16 @@
+Message,Prediction,Risk Score,Risk Level,ML Score,Security Score,Signals
+Congratulations! You won a prize. Click this link now to claim your reward.,scam,82,HIGH RISK,90.3,40,"prize_reward, suspicious_link"
+URGENT! Your bank account will be suspended. Verify your OTP immediately.,scam,82,HIGH RISK,60.82,65,"otp_theft, banking, urgency"
+Please send me your password and card details to receive the refund.,scam,90,HIGH RISK,36.56,60,"credential_theft, financial_request"
+Your account has been compromised. Login immediately to secure your account.,scam,82,HIGH RISK,46.53,35,"banking, urgency"
+"Dear customer, your KYC has expired. Update your PAN and bank details immediately.",scam,82,HIGH RISK,49.17,50,"kyc_identity, urgency, impersonation"
+You have won a cash reward. Pay a small processing fee to claim it.,scam,90,HIGH RISK,84.89,45,"financial_request, prize_reward"
+Your electricity bill is overdue. Pay immediately to avoid disconnection.,safe,37,LOW RISK,36.11,40,"financial_request, urgency"
+"Hey, are we still meeting for lunch tomorrow?",safe,3,LOW RISK,3.99,0,
+Your Amazon order has been delivered successfully.,safe,32,LOW RISK,48.84,0,
+Thanks for your message. I will call you tomorrow.,safe,27,LOW RISK,41.84,0,
+Your bank needs your OTP to complete the refund.,safe,44,LOW RISK,37.58,55,"otp_theft, financial_request"
+Send your CVV and OTP so we can process your refund.,scam,90,HIGH RISK,20.6,90,"credential_theft, otp_theft, financial_request"
+Click the link and login to verify your account.,safe,30,LOW RISK,45.95,0,
+Your KYC verification failed. Pay ₹10 to reactivate your account.,scam,82,HIGH RISK,56.02,50,"kyc_identity, financial_request"
+Your package delivery has been scheduled for tomorrow.,safe,30,LOW RISK,45.63,0,

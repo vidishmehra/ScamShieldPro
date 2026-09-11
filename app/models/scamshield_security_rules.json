@@ -1,0 +1,14 @@
+{
+    "weights": {
+        "credential_theft": 35,
+        "otp_theft": 30,
+        "banking": 20,
+        "kyc_identity": 25,
+        "financial_request": 25,
+        "urgency": 15,
+        "prize_reward": 20,
+        "suspicious_link": 20,
+        "impersonation": 10
+    },
+    "version": "V4"
+}

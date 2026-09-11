@@ -1,0 +1,2 @@
+Best Model,Test Accuracy,Test Scam Precision,Test Scam Recall,Test Scam F1,5-Fold Mean F1,5-Fold F1 Std
+Random Forest,0.9825918762088974,0.9829059829059829,0.8778625954198473,0.9274193548387096,,

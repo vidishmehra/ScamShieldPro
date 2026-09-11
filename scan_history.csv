@@ -1,0 +1,4 @@
+message,url,prediction,message_score,url_score,overall_score,risk_level
+URGENT! Your bank account will be blocked. Verify your OTP.,http://example.com/login/verify,scam,84,40,66,MEDIUM RISK
+"Hi, please bring the project notes tomorrow.",,safe,0,,0,LOW RISK
+Congratulations! You won a prize. Click the link to claim your reward.,http://example.com/claim-prize,scam,92,40,71,HIGH RISK

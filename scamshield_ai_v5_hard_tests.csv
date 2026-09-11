@@ -1,0 +1,21 @@
+Message,Prediction,Risk Score,Risk Level,ML Score,Security Score,Signals,Reasons
+Congratulations! You won a prize. Click this link now to claim your reward.,scam,93,HIGH RISK,95.54,90,"link, urgency, prize",Link/click action | Urgency or pressure language | Prize/reward claim | Prize combined with payment/link
+URGENT! Your bank account will be suspended. Verify your OTP immediately.,scam,86,HIGH RISK,74.4,100,"otp, banking, account_threat, verification, urgency",OTP/security-code request | Banking-related content | Account threat or suspension language | Verification request | Urgency or pressure language
+Please send me your password and card details to receive the refund.,scam,92,HIGH RISK,37.16,100,"password, card_credentials, refund",Password/login credential request | Card/CVV information request | Refund-related request | Refund combined with credential request
+Your account has been compromised. Login immediately to secure your account.,scam,57,MEDIUM RISK,54.82,60,"account_threat, login, urgency",Account threat or suspension language | Login request | Urgency or pressure language
+"Dear customer, your KYC has expired. Update your PAN and bank details immediately.",scam,70,MEDIUM RISK,57.73,85,"banking, kyc, urgency",Banking-related content | KYC/identity information request | KYC combined with suspicious action | Urgency or pressure language
+You have won a cash reward. Pay a small processing fee to claim it.,scam,90,HIGH RISK,95.19,80,"payment, prize",Payment/money request | Prize/reward claim | Prize combined with payment/link
+Your electricity bill is overdue. Pay immediately to avoid disconnection.,safe,38,LOW RISK,35.6,40,"payment, urgency",Payment/money request | Urgency or pressure language
+"Hey, are we still meeting for lunch tomorrow?",safe,2,LOW RISK,4.35,0,,
+Your Amazon order has been delivered successfully.,safe,28,LOW RISK,51.64,0,delivery,
+Thanks for your message. I will call you tomorrow.,safe,26,LOW RISK,46.46,0,,
+Your bank needs your OTP to complete the refund.,scam,88,HIGH RISK,48.36,100,"otp, banking, refund",OTP/security-code request | Banking-related content | Refund-related request | Refund combined with credential request
+Send your CVV and OTP so we can process your refund.,scam,92,HIGH RISK,20.22,100,"otp, card_credentials, refund",OTP/security-code request | Card/CVV information request | Refund-related request | Refund combined with credential request
+Click the link and login to verify your account.,scam,85,HIGH RISK,58.01,80,"verification, login, link",Verification request | Login request | Link/click action | Phishing combination: link + login + verification
+Your KYC verification failed. Pay ₹10 to reactivate your account.,scam,85,HIGH RISK,61.88,95,"verification, payment, kyc",Verification request | Payment/money request | KYC/identity information request | KYC combined with suspicious action
+Your package delivery has been scheduled for tomorrow.,safe,30,LOW RISK,55.24,0,delivery,
+Click here to verify your bank account immediately.,scam,57,MEDIUM RISK,50.52,65,"banking, verification, link, urgency",Banking-related content | Verification request | Link/click action | Urgency or pressure language
+Your account will be blocked unless you login and verify now.,scam,59,MEDIUM RISK,46.67,75,"account_threat, verification, login, urgency",Account threat or suspension language | Verification request | Login request | Urgency or pressure language
+Please provide your OTP to receive your refund.,scam,89,HIGH RISK,91.8,85,"otp, refund",OTP/security-code request | Refund-related request | Refund combined with credential request
+"Congratulations, you have won ₹50,000. Pay ₹500 to release the prize.",scam,90,HIGH RISK,98.47,80,"payment, prize",Payment/money request | Prize/reward claim | Prize combined with payment/link
+Your package has been shipped and will arrive tomorrow.,safe,13,LOW RISK,24.35,0,delivery,
